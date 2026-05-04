@@ -1,4 +1,4 @@
-# Sentiment Analysis for Moview Reviews
+# Sentiment Analysis for Movie Reviews
 
 ## Introduction
 
